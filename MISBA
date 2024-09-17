@@ -1,0 +1,64 @@
+</div> 
+        <div>
+        <h2>Team Work</h2>
+     <p> "I have taken part in 2 hackathons in which I have a team of 3,6 and 4 bers' respectively and I have a experience of Team work." <a href="">Learn More</a></p>
+        </div> 
+    </div>
+    </div> 
+ </div>
+ <div id="portfolio">
+        <div class="container">
+        <h1 class="sub-title">PROJECTS</h1>
+        
+        <div class="project-list"> 
+         <div class="work">
+        <div class="info"> 
+    <div id="hp"><h3>AGROCULTURE</h3></div>
+    <p> "It is a website which is helpful for farmer to sell there goods at better price."</p>
+     <a href="#">Link</a>
+    </div>
+    </div> 
+    <div class="work">
+     <img src=" " alt> 
+     <div class="info">
+         <h3>Google Drive Clone</h3>
+    <p>"It is a Web interface of google drive ."</p>
+    <a href="">Link</a>
+    </div> 
+</div>
+</div>
+    <a href="" class="btn">See More</a>
+    </div>
+ </div>
+    <div id="contact">
+        
+        <div class="container">
+        
+        <div class="row contact container"> 
+        
+        <div class="col-left"> 
+            <h1 class="sub-title">CONTACT ME</h1> 
+        <p>20951A04F7@iare.ac.in</p> 
+        <div class="social-icons">
+        <a href><img src=" " alt></a>
+        <a href><img src=" " alt></a>
+        <a href><img src=" " alt></a>
+        </div>
+        <a href="Theme5.pdf" download class="btn btn2">DownloadResume</a>
+        </div>
+        <div class="col-right">
+        <form>
+        <input type="text" name="Name" placeholder="Your Name" required>
+        <input type="email" name="Email" placeholder="Your Email" required>
+        <textarea name="Message" rows="5" placeholder="Your Message"></textarea>
+        <button type="submit" class="btn btn2">Submit</button>
+    </form>
+    </div>
+    </div> 
+</div>
+        <div class="copyright">
+        <p>Copyright Made by Nune Sai Shiva</p>
+        </div>
+        </div>
+</body>
+       </html>
